@@ -6,6 +6,9 @@ Cargo.lock
 **/*.rs.bk
 *.pdb
 
+# PostgreSQL data directory (created by docker-compose)
+pgdata/
+
 
 # Logs
 logs
